@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <alpha
+        android:duration="3000"
+        android:fromAlpha="0"
+        android:startOffset="0"
+        android:toAlpha="1" >
+    </alpha>
+
+    <translate
+        android:duration="2000"
+        android:fromYDelta="0"
+        android:startOffset="2500"
+        android:toYDelta="45%p" >
+    </translate>
+
+</set><!-- From: file:/D:/Content/Android/CarMarket/app/src/main/res/anim/logo_animation.xml -->
